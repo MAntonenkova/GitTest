@@ -1,3 +1,4 @@
 Hello world!
 Glad to see you!
 Yes I do!
+Line from user2
