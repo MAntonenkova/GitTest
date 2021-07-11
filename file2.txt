@@ -2,3 +2,4 @@ Good bye!
 Some other line
 For you
 asf
+Line from user2
