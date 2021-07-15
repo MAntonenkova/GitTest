@@ -1,4 +1,4 @@
 Hello world!
-Glad to see you!
+But I really Glad to see you! (was changed from user1)
 Yes I do!
 Line from user2
