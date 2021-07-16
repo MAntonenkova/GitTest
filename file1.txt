@@ -2,3 +2,4 @@ Hello world!
 Dont Glad to see you! (was changed from User2)
 Yes I do!
 Line from user2
+Line from user 1 - kuku - lesson rebase
